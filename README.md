@@ -1,127 +1,58 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola 👋, soy Nicolás Cárdenas</h1>
+<h3 align="center">Desarrollador Full Stack</h3>
 
-<p align="left">
-  <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.tiktok.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
-<a href="https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href="https://fb.com/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "mailto:unsimpledev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
+---
 
-<p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+## 📞 Contacto
+- 📱 **Teléfono:** (312) 267 6962  
+- ✉️ **Correo:** nicolascardenasrodriguez5@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-c%C3%A1rdenas-rodr%C3%ADguez-455066237)  
+- 📄 [Carta de presentación](https://docs.google.com/document/d/1GfFF7U5xS7I3WVI-SewfSg3Ns7PTGFgDeaDg6LU5L6I/edit?usp=sharing)
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+---
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+## 🙋‍♂️ Sobre mí
+Desarrollador Full Stack con sólida experiencia en **Java, ZK Framework, Spring Boot, SQL Developer y JasperReports**, especializado en modernización de plataformas empresariales mediante migración tecnológica y optimización de interfaces.  
+Estudiante de quinto semestre de Ingeniería de Software, con formación integral en análisis, desarrollo y despliegue de soluciones. Apasionado por adoptar nuevas tecnologías, aportar ideas creativas y potenciar la experiencia del usuario con sistemas eficientes y escalables.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+---
 
-📫 Contacto: **unsimpledev@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
+## 💼 Experiencia Profesional
+**Desarrollador Full Stack - Caseware Ingeniería S.A.S**  
+📍 Tunja, Boyacá | 📅 Dic 2023 - Jun 2025
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+- Lideré la migración de más de **40 pantallas de Oracle Forms** a tecnologías modernas con Java, ZK y JasperReports, mejorando la experiencia del usuario y reduciendo los tiempos de carga en un **30%**.
+- Desarrollé interfaces dinámicas e integré reportes personalizados conectados a bases de datos **MySQL y Oracle**.
+- Gestioné entornos virtualizados para pruebas, despliegues y simulación usando **Oracle VM Virtual Box**.
+- Migré paquetes **PL/SQL** y lógica almacenada en bases de datos para adaptarlas a las nuevas interfaces.
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
+---
 
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
-</td>
-  
-</tr>
-</table>
-  </div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
+## 🎓 Educación
+- 🎓 **Ingeniería de Software (5° semestre, modalidad virtual)**  
+  Universidad Politécnico Grancolombiano - Tunja, Boyacá - 2025
+- 📜 **Tecnólogo en Análisis y Desarrollo en Sistemas de Información**  
+  SENA - Tunja, Boyacá - 2021
+- 🎓 **Bachiller Técnico en Sistemas**  
+  IETAN - Moniquirá, Boyacá - 2021
+- 🚀 **Programa Misión TIC - Desarrollo de Software**  
+  Universidad Tecnológica de Pereira - 2022
 
+---
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+## 🛠 Habilidades Técnicas
+- **Lenguajes:** Java, C#, Visual Basic, JavaScript, Python, TypeScript, Cobol
+- **Frameworks & Frontend:** Spring Boot, ZK, Angular, Vue, Bootstrap 4
+- **Bases de datos:** MySQL, Oracle, MongoDB, PhpMyAdmin, SQL Developer
+- **Herramientas:** JasperReports, Oracle Forms, PL/SQL, Git, XML, JSON, Oracle VM Virtual Box
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
+---
 
-<td width="40%" align="center">
+## 🤝 Referencias
+- **Andrés Cárdenas**  
+  Ing. de Sistemas | Desarrollador TI  
+  📱 (315) 553 4107
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=left>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=unsimpledev&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
+- **Keila Patricia Torres**  
+  Ing. de Sistemas | Desarrollador TI - Líder TI  
+  📱 (300) 866 3160
