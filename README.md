@@ -28,7 +28,7 @@ Estudiante de quinto semestre de Ingeniería de Software, con formación integra
 
 ## 💼 Experiencia Profesional
 **Desarrollador Full Stack - Caseware Ingeniería S.A.S**  
-📍 Tunja, Boyacá | 📅 Dic 2023 - Jun 2025
+📍 Bogotá D.C | 📅 Dic 2023 - Jun 2025
 
 - Lideré la migración de más de **40 pantallas de Oracle Forms** a tecnologías modernas con Java, ZK y JasperReports, mejorando la experiencia del usuario y reduciendo los tiempos de carga en un **30%**.
 - Desarrollé interfaces dinámicas e integré reportes personalizados conectados a bases de datos **MySQL y Oracle**.
