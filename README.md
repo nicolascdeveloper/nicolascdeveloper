@@ -25,6 +25,7 @@ Estudiante de quinto semestre de Ingeniería de Software, con formación integra
 </p>
 <br>
 ---
+
 ## 💼 Experiencia Profesional
 **Desarrollador Full Stack - Caseware Ingeniería S.A.S**  
 📍 Tunja, Boyacá | 📅 Dic 2023 - Jun 2025
