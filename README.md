@@ -16,12 +16,11 @@ Desarrollador Full Stack con sólida experiencia en **Java, ZK Framework, Spring
 Estudiante de quinto semestre de Ingeniería de Software, con formación integral en análisis, desarrollo y despliegue de soluciones. Apasionado por adoptar nuevas tecnologías, aportar ideas creativas y potenciar la experiencia del usuario con sistemas eficientes y escalables.
 
 ---
----
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,angular,cpp,java,php,dart,flutter,py,dotnet,aws,bash,gitlab,laravel,mysql,css,html,vscode,visualstudio,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
